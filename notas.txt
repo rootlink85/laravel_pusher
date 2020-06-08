@@ -1,0 +1,6 @@
+1.-. instalar laravel
+
+2.- instalar livewire
+
+3.- crear un HomeController
+
