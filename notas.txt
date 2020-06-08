@@ -4,3 +4,7 @@
 
 3.- crear un HomeController
 
+4.- crear php artisan make:livewire chat-form
+
+
+5.- modifican las vista (revisar el codigo)
